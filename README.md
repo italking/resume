@@ -7,6 +7,7 @@
  - 本科
  - 工作年限：9年
  - Github：https://github.com/italking
+ - 博客：https://www.imisland.com
  - 期望职位：技术类产品总监，研发总监
  - 期望城市：北京
 
