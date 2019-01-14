@@ -13,7 +13,7 @@
 
 ## 个人项目
  - [Apptalking](https://www.apptalking.com/)：APM 应用性能管理系统(独立开发者)。
- - [TalkingUi](https://www.talkingui.com/)：基于jQuery的前端UI框架(独立开发者)。
+ - [TalkingUi](https://www.talkingui.com/)：基于Angular的前端UI框架(独立开发者)。
  - [TalkingUi-jQuery](https://jquery.talkingui.com/)：基于jQuery的前端UI框架(独立开发者)。
  - [jui](http://jui.org/)：轻量级前端富客户端框架(开发成员)。
  
