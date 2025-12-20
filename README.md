@@ -1,25 +1,14 @@
 ## 联系方式
-- Email：jiweigang2008@126.com
+- Email：gang.ji@outlook.com
 
 ## 个人信息
 
- - 冀刚/男/1986
- - 本科
- - 工作年限：9年
- - Github：https://github.com/italking
- - 博客：https://www.imisland.com
- - 期望职位：技术类产品总监，研发总监
- - 期望城市：北京
-
-## 个人项目
- - [Apptalking](https://www.apptalking.com/)：APM 应用性能管理系统(独立开发者)。
- - [TalkingUi](https://www.talkingui.com/)：基于Angular的前端UI框架(独立开发者)。
- - [TalkingUi-jQuery](https://jquery.talkingui.com/)：基于jQuery的前端UI框架(独立开发者)。
- - [jui](http://jui.org/)：轻量级前端富客户端框架(开发成员)。
+ - 冀刚/男/
  
 ## 工作经历
 ### 蚂蚁金服 （2019.04 - 至今）
-负责 Antmonitor 监控监控产品、压测产品
+当前负责蚂蚁 AI 中间件产品工作
+负责 Antmonitor 监控监控产品、压测产品、FaaS 、云开发产品
 ### Apptalking （2018.02 - 2019.04）
 负责 Apptalking 研发及推广工作。
 ### 北京基调网络股份有限公司（2015.02-2018-02）
