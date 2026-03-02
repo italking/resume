@@ -7,11 +7,12 @@
  
 ## 工作经历
 ### 蚂蚁金服 （2019.04 - 至今）
-当前负责蚂蚁 AI 中间件产品 agent 、mcp 记忆、知识库 ai agent基础设施。
+负责蚂蚁 AI 中间件产品，包括 Agent、MCP 记忆、知识库等 AI Agent 基础设施。
 
-coding agent hawa code 开发者 http://www.hawacode.com
+Hawa Code 开发者（www.hawacode.com）。
 
-负责 Antmonitor 监控产品、压测产品、FaaS 、云开发产品
+同时负责 AntMonitor 监控、压测、FaaS 及云开发产品。
+
 ### Apptalking （2018.02 - 2019.04）
 负责 Apptalking 研发及推广工作。
 ### 北京基调网络股份有限公司（2015.02-2018-02）
