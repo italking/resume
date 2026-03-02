@@ -11,7 +11,7 @@
 
 Hawa Code 开发者（www.hawacode.com）。
 
-同时负责 AntMonitor 监控、压测、FaaS 及云开发产品。
+曾负责 AntMonitor 监控、压测、FaaS 及云开发产品。
 
 ### Apptalking （2018.02 - 2019.04）
 负责 Apptalking 研发及推广工作。
