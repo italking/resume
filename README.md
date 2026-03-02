@@ -14,7 +14,7 @@ Hawa Code coding agent 开发者 www.hawacode.com
 曾负责 AntMonitor 监控、压测、FaaS 及云开发产品。
 
 ### Apptalking （2018.02 - 2019.04）
-负责 Apptalking 研发及推广工作。
+负责 Apptalking APM 应用性能管理产品研发及推广工作。
 ### 北京基调网络股份有限公司（2015.02-2018-02）
 担任研发总监、产品总监职位。先后负责 听云 Network 主动拨测系统、听云 App、听云 Server 应用性能管理等系统。
 ### 北京中科方德软件有限公司（2012.09-2015.02）
