@@ -9,7 +9,7 @@
 ### 蚂蚁金服 （2019.04 - 至今）
 负责蚂蚁 AI 中间件产品，包括 Agent、MCP 记忆、知识库等 AI Agent 基础设施。
 
-Hawa Code 开发者（www.hawacode.com）。
+Hawa Code 开发者 www.hawacode.com
 
 曾负责 AntMonitor 监控、压测、FaaS 及云开发产品。
 
